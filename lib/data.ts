@@ -121,6 +121,18 @@ export const data = {
       tags: ['Python', 'Pandas', 'Matplotlib', 'Data Analysis'],
       links: [],
     },
+	{
+	  num: '09',
+	  title: 'Haki Yetu Civic Education Platform',
+	  label: 'PROJECT',
+	  highlight: null,
+	  desc: 'An AI-powered civic education platform teaching Kenyans their civil rights through interactive conversations',
+	  tags: ['Next.js', 'Typescript'],
+	  links: [
+		{ label: 'GitHub', href: 'https://github.com/kimanimukundi/haki-yetu' },
+		{ label: 'Live Demo', href: 'https://haki-yetu.onrender.com' },
+	  ],
+	},
   ],
   skills: [
     { name: 'Python', pct: 92 },
