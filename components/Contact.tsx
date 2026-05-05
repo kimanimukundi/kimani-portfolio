@@ -15,7 +15,9 @@ export default function Contact() {
           <p>Looking for an internship where I can contribute and grow. If you have a project, opportunity, or just want to connect — reach out.</p>
           <a className={styles.detail} href={`mailto:${data.email}`}>{data.email}</a>
           <span className={styles.detail}>{data.phone}</span>
-          <a className={styles.detail} href={`https://${data.github}`} target="_blank" rel="noopener noreferrer">{data.github}</a>
+          {data.githubs.map((g) => (
+  <a key={g} className={styles.detail} href={`https://${g}`} target="_blank" rel="noopener noreferrer">{g}</a>
+))}
           <span className={styles.detail}>{data.location}</span>
         </div>
         <div className={styles.form}>

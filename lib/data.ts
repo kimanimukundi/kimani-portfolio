@@ -4,7 +4,7 @@ export const data = {
   tagline: ['SOFTWARE DEVELOPER', 'ML ENGINEER', 'PROBLEM SOLVER'],
   email: 'kimanimukundi605@gmail.com',
   phone: '+254 797 325 474',
-  github: 'github.com/kyatrixxkush', 'github.com/kimanimukundi;',
+  githubs: ['github.com/kyatrixxkush', 'github.com/kimanimukundi'],
   location: 'Nairobi, Kenya',
   stats: [
     { num: '8+', label: 'Projects Shipped' },
