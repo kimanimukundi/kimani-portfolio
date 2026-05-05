@@ -1,0 +1,9 @@
+.heading {
+  font-family: 'Space Mono', monospace;
+  font-size: 20px;
+  font-weight: 700;
+  margin-bottom: 3rem;
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 1rem;
+}
+.num { color: var(--teal); margin-right: 0.4em; }
