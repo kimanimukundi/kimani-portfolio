@@ -42,7 +42,7 @@ export const data = {
       tags: ['Python', 'Scikit-learn', 'Random Forest', 'Streamlit', 'Pandas', 'Plotly', 'YAML'],
       links: [
         { label: 'GitHub', href: 'https://github.com/kyatrixxkush/Student-Performance-Prediction-System' },
-        { label: 'Live Demo', href: 'https://student-performance-prediction-system-edfinrdxt4dqcg6i63n43h.streamlit.app/' },
+        { label: 'Live', href: 'https://student-performance-prediction-system-edfinrdxt4dqcg6i63n43h.streamlit.app/' },
       ],
     },
 	{
@@ -65,7 +65,7 @@ export const data = {
       desc: "An AI-powered web app that analyzes CVs against job descriptions using OpenAI's GPT API. Users upload a CV (PDF or DOCX) and paste a job description to receive a detailed match score, missing keywords, and actionable improvement suggestions. Handles complex PDF parsing and generates insights in seconds.",
       tags: ['Python', 'Flask', 'OpenAI API', 'PyPDF2', 'pdfplumber', 'Render'],
       links: [
-        { label: 'Live Demo', href: 'https://ai-powered-cv-analyzer.onrender.com/' },
+        { label: 'Live', href: 'https://ai-powered-cv-analyzer.onrender.com/' },
       ],
     },
     {
@@ -77,7 +77,7 @@ export const data = {
       tags: ['Python', 'Flask', 'REST APIs', 'HTML/CSS', 'Render'],
       links: [
         { label: 'GitHub', href: 'https://github.com/kyatrixxkush/nairobi-dashboard' },
-        { label: 'Live Demo', href: 'https://nairobi-dashboard-mi16.onrender.com/' },
+        { label: 'Live', href: 'https://nairobi-dashboard-mi16.onrender.com/' },
       ],
     },
     {
