@@ -45,6 +45,18 @@ export const data = {
         { label: 'Live Demo', href: 'https://student-performance-prediction-system-edfinrdxt4dqcg6i63n43h.streamlit.app/' },
       ],
     },
+	{
+	  num: '02',
+	  title: 'Haki Yetu Civic Education Platform',
+	  label: 'FEATURED PROJECT',
+	  highlight: null,
+	  desc: 'An AI-powered civic education platform teaching Kenyans their civil rights through interactive conversations.',
+	  tags: ['Next.js', 'TypeScript'],
+	  links: [
+		{ label: 'GitHub', href: 'https://github.com/kimanimukundi/haki-yetu' },
+		{ label: 'Live', href: 'https://haki-yetu.onrender.com' },
+	  ],
+	},
     {
       num: '03',
       label: 'FEATURED PROJECT · DEPLOYED',
@@ -121,18 +133,6 @@ export const data = {
       tags: ['Python', 'Pandas', 'Matplotlib', 'Data Analysis'],
       links: [],
     },
-	{
-	  num: '02',
-	  title: 'Haki Yetu Civic Education Platform',
-	  label: 'FEATURED PROJECT',
-	  highlight: null,
-	  desc: 'An AI-powered civic education platform teaching Kenyans their civil rights through interactive conversations.',
-	  tags: ['Next.js', 'TypeScript'],
-	  links: [
-		{ label: 'GitHub', href: 'https://github.com/kimanimukundi/haki-yetu' },
-		{ label: 'Live', href: 'https://haki-yetu.onrender.com' },
-	  ],
-	},
   ],
   skills: [
     { name: 'Python', pct: 92 },
