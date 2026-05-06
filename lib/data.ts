@@ -46,7 +46,7 @@ export const data = {
       ],
     },
     {
-      num: '02',
+      num: '03',
       label: 'FEATURED PROJECT · DEPLOYED',
       title: 'AI CV Analyzer',
       highlight: null,
@@ -57,7 +57,7 @@ export const data = {
       ],
     },
     {
-      num: '03',
+      num: '04',
       label: 'FEATURED PROJECT · DEPLOYED',
       title: 'Nairobi Live Dashboard',
       highlight: null,
@@ -69,7 +69,7 @@ export const data = {
       ],
     },
     {
-      num: '04',
+      num: '05',
       label: 'PROJECT',
       title: 'Sentiment Analysis — NLP Text Classifier',
       highlight: null,
@@ -80,7 +80,7 @@ export const data = {
       ],
     },
     {
-      num: '05',
+      num: '06',
       label: 'PROJECT',
       title: 'House Price Prediction Model',
       highlight: null,
@@ -91,7 +91,7 @@ export const data = {
       ],
     },
     {
-      num: '06',
+      num: '07',
       label: 'PROJECT',
       title: 'Books REST API',
       highlight: null,
@@ -102,7 +102,7 @@ export const data = {
       ],
     },
     {
-      num: '07',
+      num: '08',
       label: 'PROJECT',
       title: 'Task Manager Web App',
       highlight: null,
@@ -113,7 +113,7 @@ export const data = {
       ],
     },
     {
-      num: '08',
+      num: '09',
       label: 'PROJECT',
       title: 'Kenya Tech Sales Data Analysis',
       highlight: null,
@@ -122,15 +122,15 @@ export const data = {
       links: [],
     },
 	{
-	  num: '09',
+	  num: '02',
 	  title: 'Haki Yetu Civic Education Platform',
-	  label: 'PROJECT',
+	  label: 'FEATURED PROJECT',
 	  highlight: null,
-	  desc: 'An AI-powered civic education platform teaching Kenyans their civil rights through interactive conversations',
-	  tags: ['Next.js', 'Typescript'],
+	  desc: 'An AI-powered civic education platform teaching Kenyans their civil rights through interactive conversations.',
+	  tags: ['Next.js', 'TypeScript'],
 	  links: [
 		{ label: 'GitHub', href: 'https://github.com/kimanimukundi/haki-yetu' },
-		{ label: 'Live Demo', href: 'https://haki-yetu.onrender.com' },
+		{ label: 'Live', href: 'https://haki-yetu.onrender.com' },
 	  ],
 	},
   ],
