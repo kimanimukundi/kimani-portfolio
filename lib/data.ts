@@ -89,6 +89,13 @@ export const data = {
       github: 'https://github.com/kyatrixxkush/sentiment-analysis',
       live: null,
     },
+	{
+	  title: 'LearnSpace',
+	  desc: 'A personal AI tutor where you upload videos, notes, books, and lecture materials then ask questions and get answers from your own content. Supports YouTube links, offline mode via Ollama, and runs as a PWA.',
+	  tags: ['Python', 'FastAPI', 'Groq API', 'Ollama', 'ChromaDB', 'Whisper', 'yt-dlp', 'PWA'],
+	  github: 'https://github.com/kimanimukundi/learnspace',
+	  live: 'https://learnspace-9wea.onrender.com',
+},
     {
       title: 'House Price Prediction Model',
       desc: 'ML model predicting Nairobi house prices based on location, size, and other features. Built a full preprocessing and prediction pipeline.',
